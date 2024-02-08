@@ -3,7 +3,7 @@
 
 # CPE-026
 Emerging Technologies 3 in CpE
-(https://github.com/Veatz/CPE-026/blob/main/IMG_20231127_170406.jpg)
+![This is ME! I am a BSCpE Student at Technological Institute of the Philippines.](https://github.com/Veatz/CPE-026/blob/main/IMG_20231127_170406.jpg)
 <h1 align="center">Hi 👋, I'm Michael Vincent R. Alcoseba</h1>
 <h3 align="center">Bachelor of Science in Computer Engineering (BSCpE)</h3>
 
