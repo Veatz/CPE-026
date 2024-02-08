@@ -1,5 +1,4 @@
-![I am a BSCpE Student at Technological Institute of the Philippines.](https://github.com/Veatz/CPE-026/blob/main/Computer%20Parts.png)
-
+![Computer Parts](https://github.com/Veatz/CPE-026/assets/130222460/52976809-a7af-4032-9b27-2f6ab3d2d9e4)
 
 # CPE-026
 Emerging Technologies 3 in CpE
