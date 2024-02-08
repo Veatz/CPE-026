@@ -1,7 +1,7 @@
 ![Computer Parts](https://github.com/Veatz/CPE-026/assets/130222460/52976809-a7af-4032-9b27-2f6ab3d2d9e4)
 
 # CPE-026 - Emerging Technologies 3 in CpE
-<img src="https://github.com/Veatz/CPE-026/blob/main/IMG_20231127_170406.jpg"  align="center" width="576" height="720"/>
+<img src="https://github.com/Veatz/CPE-026/blob/main/IMG_20231127_170406.jpg" width="550" height="720"/>
 <h1 align="center">Hi 👋, I'm Michael Vincent R. Alcoseba</h1>
 <h3 align="center">Bachelor of Science in Computer Engineering (BSCpE)</h3>
 
