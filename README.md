@@ -2,9 +2,7 @@
 
 # CPE-026
 Emerging Technologies 3 in CpE
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<br>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/Veatz/CPE-026/blob/main/IMG_20231127_170406.jpg"  width="500" height="500"/>
 <h1 align="center">Hi 👋, I'm Michael Vincent R. Alcoseba</h1>
 <h3 align="center">Bachelor of Science in Computer Engineering (BSCpE)</h3>
 
