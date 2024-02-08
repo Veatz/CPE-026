@@ -5,6 +5,9 @@ Emerging Technologies 3 in CpE
 <h3 align="center">Bachelor of Science in Computer Engineering (BSCpE)</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a target = "https://www.facebook.com/centzz23/">
+  Facebook
+</a>
 <p align="left">
 </p>
 
