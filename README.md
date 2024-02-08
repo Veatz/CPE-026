@@ -8,7 +8,7 @@
 <h1 align="center">
  
   Hi 👋, I'm Michael Vincent R. Alcoseba</h1>
-<h3 align="center">A Bachelor of Science in Computer Engineering (BSCpE) Student from Technological Institute of the Philippines!</h3>
+<h3 align="center">Bachelor of Science in Computer Engineering (BSCpE) Student from Technological Institute of the Philippines!</h3>
 
 <p align="left">
 </p>
